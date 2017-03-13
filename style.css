@@ -1,0 +1,18 @@
+body{
+	background-color: black;
+}
+h1{
+	font-size: 60px;
+	color: white;
+	text-align: center;
+}
+#gifs-button{
+	text-align: center;
+}
+.gif{
+	border-width: 7px;
+	color: black;
+}  
+#gif-form{
+	text-align: center;
+}
