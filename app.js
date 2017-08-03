@@ -22,7 +22,7 @@ var gifs = ["toy story", "monsters inc", "lion king", "bugs bunny", "micky mouse
         	console.log(response);
         	for (var i = 0; i < results.length; i++) {
         	//new div to display responses
-        	var  gifDiv = $("<div>");
+        	var  gifDiv = $("<div class='gify'>");
         	//var holding rating	
         	var rating = results[i].rating;
         	//element to  display rating
